@@ -1,5 +1,5 @@
 {
-"count": 1440,
+"count": 1441,
 "entries": [
     {
         "API": "Cat Facts",
@@ -396,6 +396,15 @@
         "Cors": "unknown",
         "Link": "https://maldatabase.com/api-doc.html",
         "Category": "Anti-Malware"
+    },
+    {
+        "API": "IP Details API",
+        "Description": "P Details API provides accurate* IP address data that keeps pace with secure, specific, and forward-looking use cases and our auto-scaling servers can handle more than a million API queries a day. Start using IP Details API in minutes with simple setups.",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://rapidapi.com/Bluehatcoders/api/ip-details-api",
+        "Category": "Development"
     },
     {
         "API": "MalShare",
